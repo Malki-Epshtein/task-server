@@ -12,7 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9852B35C-E3DA-46EF-AD80-F18F81B4D05C}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
-		Dockerfile.txt = Dockerfile.txt
+		Dockerfile = Dockerfile
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTO", "DTO\DTO.csproj", "{7AFD214C-31D4-4895-B27D-6B5952AFD09D}"
